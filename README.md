@@ -44,7 +44,7 @@ The program will download the HTML content of each URL in the input file. It wil
 
 ### License
 
-**[Add your license information here]** (e.g., MIT License, Apache License)
+**This project is licensed under the MIT License (see LICENSE file for details).**
 
 ### Contribution
 
