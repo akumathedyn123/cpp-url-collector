@@ -16,7 +16,7 @@ This C++ program crawls websites, downloads their HTML content, extracts links, 
 * Downloads HTML content using libcurl.
 * Parses HTML using libxml2.
 * Extracts links from the parsed HTML.
-* Saves extracted links to separate files named after the original URL.
+* Saves extracted links to separate files named after the original URL. 
 * Removes processed URLs from the input file.
 
 ### Requirements
