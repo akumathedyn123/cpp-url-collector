@@ -3,7 +3,7 @@
 Github profile: https://github.com/akumathedynd
 
 Copyright ©2021 Md. N e H Jack. All right reseved.
-
+ 
 Disclaimer: This code is provided for educational purposes only. The author is not responsible for any damages or hazards caused by its use.
 
 ## C++ Web Crawler - Download and Extract Links
